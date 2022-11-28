@@ -9,7 +9,7 @@ export const WeatherApp = () => {
         <div className="text-3xl font-bold mt-7 mx-auto animate__animated animate__backInDown">
           Climas del Mundo
           <img
-            src="../public/cloud.gif"
+            src="../cloud.gif"
             alt="sun"
             className="animate__animated animate__backInDown w-28 mx-auto"
           />
